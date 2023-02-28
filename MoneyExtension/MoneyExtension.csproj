@@ -16,7 +16,7 @@
     <PackageProjectUrl>https://github.com/alissoneear/MoneyExtensions/</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
-    <PackageTags>money;int;decima;converter</PackageTags>
+    <PackageTags>money;int;decimal;converter</PackageTags>
     <Title>MoneyExtensions</Title>
     <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
